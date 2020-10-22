@@ -1,0 +1,10 @@
+{
+  "name": "ui-clone-pinterest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass --watch scss:styles",
+    "sassc": "sass --watch scss:styles --style compressed"
+  }
+}
